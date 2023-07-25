@@ -1,0 +1,24 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "author": "Mercy",
+      "quote": "What does not kill you makes you stronger"
+    },
+    {
+      "id": 2,
+      "author": "Brian",
+      "quote": "You are never too old to set another goal or dream a new dream."
+    },
+    {
+      "id": 3,
+      "author": "Kevin",
+      "quote": "Mess with the bull and get the horns"
+    },
+    {
+      "author": "Vinny",
+      "quote": "be happy",
+      "id": 4
+    }
+  ]
+}
